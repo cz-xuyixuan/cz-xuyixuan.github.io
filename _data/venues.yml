@@ -1,6 +1,7 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"ArXiv Preprint":
+  url: https://arxiv.org/
+  color: "#828282"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"EC 2023":
+  url: https://ec23.sigecom.org/
+  color: "#0076df"

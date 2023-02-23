@@ -1,25 +1,24 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><a href='https://iiis.tsinghua.edu.cn/en/yaoclass/'>Yao Class</a> 02, <a href='https://iiis.tsinghua.edu.cn/en/'>IIIS</a>, <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua</a></p>
+    <p>xuyx20@mails.tsinghua.edu.cn</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Well met! I am Yixuan (Even) Xu (徐翊轩), a junior-year undergraduate student majoring in Computer Science and Technology at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) (a.k.a. [**Yao Class**](https://iiis.tsinghua.edu.cn/en/yaoclass/), directed by [Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests lie broadly in theoretical computer science and artificial intelligence, with a focus on designing algorithms with both theoretical guarantees and practical impact. I have worked on topics of online matching and bidder selection in auctions. I am currently working on   peer review. See my <a href="{{ '/cv/' | relative_url }}">CV</a> and <a href="{{ '/publications/' | relative_url }}">publications</a> for more details.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Besides research, I have been actively participating in competitive programming. See my <a href="{{ '/cv/' | relative_url }}">CV</a> for selected awards in OI, ICPC and CCPC. You can also find me in many online competitive programming platforms like [Codeforces](https://codeforces.com/profile/cz_xuyixuan), [Atcoder](https://atcoder.jp/users/cz_xuyixuan) and [Project Euler](https://projecteuler.net/progress=cz_xuyixuan).
+

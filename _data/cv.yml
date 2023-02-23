@@ -1,97 +1,128 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Name
+      value: Yixuan (Even) Xu
+    - name: Email
+      value: <a href="mailto:xuyx20@mails.tsinghua.edu.cn">xuyx20@mails.tsinghua.edu.cn</a>, <a href="mailto:yixuanx@andrew.cmu.edu">yixuanx@andrew.cmu.edu</a>
+    - name: Research Interests
+      value: Algorithmic Game Theory, Economics and Computation, Online Algorithms
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor in Computer Science
+      institution: Tsinghua University
+      year: 2020.09 - PRESENT
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - <a href='https://iiis.tsinghua.edu.cn/en/yaoclass/'>Yao Class</a> 02, <a href='https://iiis.tsinghua.edu.cn/en/'>Institute for Interdisciplinary Information Sciences (IIIS)</a>
+        - GPA until 2022 Fall&#58 <b>4.00/4.00</b>. Rank&#58 <b>1/79</b>.
+
+- title: Research
+  type: time_table
+  contents:
+    - title: (Ongoing) Randomized Assignment Algorithms in Peer Review
+      year: 2022.09 - PRESENT
       description:
-        - Description 1.
-        - Description 2.
+        - This is an ongoing study, and there are no write-ups yet.
+        - Collaborators&#58 Fei Fang, Steven Jecmen, Zimeng Song.
+  
+    - title: Bidder Selection Problem in Position Auctions via Poisson Approximation
+      year: 2022.07 - 2023.01
+      description:
+        - Submitted to <b>EC 2023</b>, under review.
+        - Coauthors&#58 Nick Gravin, Renfei Zhou.
+        - Proposing a novel Poisson-Chernoff relaxation of Bidder Selection Problem for Position Auctions, and giving a PTAS useful and efficient in practice.
+
+    - title: On the Perturbation Function of Ranking and Balance for Weighted Online Bipartite Matching
+      year: 2022.01 - 2022.07
+      description:
+        - Submitted to <b>ICALP 2023</b>, under review.
+        - Coauthors&#58 Jingxun Liang, Zhihao Gavin Tang, Yuhao Zhang, Renfei Zhou.
+        - Proving the uniqueness of a function used in the optimal algorithms for AdWords and Vertex Weighted Online Bipartite Matching, and refuting a previous conjecture about a well-known algorithm for AdWords.
+        - ArXiv preprint available at <a href="https://arxiv.org/abs/2210.10370">https://arxiv.org/abs/2210.10370</a>.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Intern
+      institution: Carnegie Mellon University
+      year: 2023.02 - PRESENT
+      description: 
+        - Advised by <a href="https://feifang.info/">Prof. Fei Fang</a>.
+        - Currently working on randomized assignment algorithms in peer review. 
+    
+    - title: Research Intern
+      institution: Beijing Academy of Artificial Intelligence
+      year: 2021.04 - 2021.09
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Advised by <a href="http://people.iiis.tsinghua.edu.cn/~yuanyang/en.html">Prof. Yang Yuan</a>.
+        - Worked on an intelligent health care system&#58 Qian Fang Medical Care.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - title: <b>Jiang Nanxiang Scholarship (蒋南翔奖学金)</b>
+          contents:
+          - (Top scholarship in Tsinghua, 1 undergrad per department)
+        - IIIS Comprehensive Excellence Scholarship
+        - Three Star Zi Jing Volunteer of Tsinghua University
+    - year: 2021
       items: 
-        - Max Planck Medal
+        - title: <b>China National Scholarship (国家奖学金)</b>
+          contents:
+          - (Top scholarship in China, awarded to 0.2% undergrads domestically)
+        - IIIS Comprehensive Excellence Scholarship
+    - year: 2020
+      items: 
+        - Xue Tang Scholarship of Tsinghua University
+        - Freshmen Scholarship of Tsinghua University
+        - Hua Ying Scholarship
 
-- title: Academic Interests
-  type: nested_list
+- title: Competitive Programming (Selected)
+  type: time_table
   contents:
-    - title: Topic 1.
+    - year: 2022
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - <b>ICPC Asia-East Continent Final Contest, 3rd, Gold Medal</b>
+        - ICPC Asia Kunming Regional Contest, 1st, Champion
+    - year: 2021
+      items: 
+        - <b>China Collegiate Programming Contest Final, 3rd, Gold Medal</b>
+    - year: 2020
+      items: 
+        - ICPC Asia Shanghai Regional Contest, 3rd, Gold Medal
+        - ICPC Beijing Xiaomi Invitational Contest, 1st, Champion
+    - year: 2017 - 2019
       items:
-        - Description 1.
-        - Description 2.
+        - <b>National Olympiad in Informatics 2019, 8th, Gold Medal</b>
+        - <b>Asia-Pacific Informatics Olympiad 2018, 7th, International Gold</b>
+        - China Team Selection Competition 2018, 11th, Gold Medal
+        - CCF NOI Winter Camp, 27th, Gold Medal
 
-- title: Other Interests
-  type: list
+- title: Course Projects (Selected)
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - year: 2022.12
+      description: 
+        - Course project of Algorithm Analysis and Design, 2023 Fall.
+        - A survey on online bipartite matching.
+    - year: 2022.06
+      items: 
+        - Course project of Game Theory, 2022 Spring.
+        - A study on Priority Gas Auction problem in blockchain application.
+        - Some results are improved in the survey.
+    - year: 2022.06
+      items: 
+        - Course project of Numerical Analysis, 2022 Spring.
+        - A survey on adversarial training and knowledge distillation.
+
+- title: Service
+  type: time_table
+  contents:
+    - year: 2022.05 - PRESENT
+      description: Volunteering at Question Answering Workshop of Tsinghua University
+    - year: 2018.02 - PRESENT
+      description: Teaching secondary school students competitive programming in Changzhou Senior High School of Jiangsu Province.
