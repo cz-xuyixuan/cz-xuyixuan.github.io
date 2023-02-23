@@ -11,7 +11,7 @@ ICPC EC Final (Asia-East Continent Final Contest) 2021 is hosted by Northwestern
 
 ## Teammates
 
-Our team is `窗边明月`, composing of me, Junzhao Yang and Sunli Chen.
+Our team is `窗边明月`, composing of Junzhao Yang, Sunli Chen and me.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -19,8 +19,9 @@ Our team is `窗边明月`, composing of me, Junzhao Yang and Sunli Chen.
     </div>
 </div>
 <div class="caption">
-    Our team. From let to right are Sunli, Junzhao and me.
+    Our team. From left to right are Sunli, Junzhao and me.
 </div>
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

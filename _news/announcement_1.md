@@ -20,7 +20,7 @@ CCPC (China Collegiate Programming Contest) Final 2020 is hosted by Beijing Univ
 
 ## Teammates
 
-Our team is `喵喵喵喵喵喵喵喵喵喵喵喵`, composing of me, Binwei Yan and Renfei Zhou.
+Our team is `喵喵喵喵喵喵喵喵喵喵喵喵`, composing of Binwei Yan, Renfei Zhou and me.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -28,8 +28,9 @@ Our team is `喵喵喵喵喵喵喵喵喵喵喵喵`, composing of me, Binwei Yan 
     </div>
 </div>
 <div class="caption">
-    Our team. From let to right are me, Renfei and Binwei.
+    Our team. From left to right are me, Renfei and Binwei.
 </div>
+
 
 ## Competition Result
 
