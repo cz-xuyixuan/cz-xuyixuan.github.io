@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Well met! I am Yixuan (Even) Xu (徐翊轩), a junior-year undergraduate student majoring in Computer Science and Technology at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) (a.k.a. [**Yao Class**](https://iiis.tsinghua.edu.cn/en/yaoclass/), directed by [Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)).
 
-My research interests lie broadly in theoretical computer science and artificial intelligence, with a focus on designing algorithms with both theoretical guarantees and practical impact. I have worked on topics of online matching and bidder selection in auctions. I am currently working on   peer review. See my <a href="{{ '/cv/' | relative_url }}">CV</a> and <a href="{{ '/publications/' | relative_url }}">publications</a> for more details.
+My research interests lie broadly in theoretical computer science and artificial intelligence, with a focus on designing algorithms with both theoretical guarantees and practical impact. I have worked on topics of online matching, auction bidder selection, peer review, and bilater trade. See my <a href="{{ '/cv/' | relative_url }}">CV</a> and <a href="{{ '/publications/' | relative_url }}">publications</a> for more details.
 
 Besides research, I have been actively participating in competitive programming. See my <a href="{{ '/cv/' | relative_url }}">CV</a> for selected awards in OI, ICPC and CCPC. You can also find me in many online competitive programming platforms like [Codeforces](https://codeforces.com/profile/cz_xuyixuan), [Atcoder](https://atcoder.jp/users/cz_xuyixuan) and [Project Euler](https://projecteuler.net/progress=cz_xuyixuan).
 

@@ -21,23 +21,31 @@
 - title: Research
   type: time_table
   contents:
-    - title: (Ongoing) Randomized Assignment Algorithms in Peer Review
-      year: 2022.09 - PRESENT
+    - title: Non-Excludable Bilateral Trade Between Groups
+      year: 2023.02 - 2023.05
       description:
-        - This is an ongoing study, and there are no write-ups yet.
-        - Collaborators&#58 Fei Fang, Steven Jecmen, Zimeng Song.
+        - Submitted to <b>NeurIPS 2023</b>, under review.
+        - Coauthors&#58 Hanrui Zhang, Vincent Conitzer.
+        - We generalize the traditional bilateral trade problem to a non-excludable setting, where we characterize feasible mechanisms, give a mechanism with all desiderata in some cases, and prove hardness results for others.
+
+    - title: A One-Size-Fits-All Approach to Improving Randomness in Paper Assignment
+      year: 2022.09 - 2023.05
+      description:
+        - Submitted to <b>NeurIPS 2023</b>, under review.
+        - Coauthors&#58 Steven Jecmen, Zimeng Song, Fei Fang.
+        - We identify the importance of randomness in paper assignment and formally formulate the problem, where we propose an algorithm that theoretically and empirically outperforms the currently deployed algorithm for randomized paper assignment.
   
     - title: Bidder Selection Problem in Position Auctions via Poisson Approximation
       year: 2022.07 - 2023.01
       description:
-        - Submitted to <b>EC 2023</b>, under review.
+        - To be submitted to <b>SODA 2024</b>.
         - Coauthors&#58 Nick Gravin, Renfei Zhou.
         - Proposing a novel Poisson-Chernoff relaxation of Bidder Selection Problem for Position Auctions, and giving a PTAS useful and efficient in practice.
 
     - title: On the Perturbation Function of Ranking and Balance for Weighted Online Bipartite Matching
       year: 2022.01 - 2022.07
       description:
-        - Submitted to <b>ICALP 2023</b>, under review.
+        - Submitted to <b>ESA 2023</b>, under review.
         - Coauthors&#58 Jingxun Liang, Zhihao Gavin Tang, Yuhao Zhang, Renfei Zhou.
         - Proving the uniqueness of a function used in the optimal algorithms for AdWords and Vertex Weighted Online Bipartite Matching, and refuting a previous conjecture about a well-known algorithm for AdWords.
         - ArXiv preprint available at <a href="https://arxiv.org/abs/2210.10370">https://arxiv.org/abs/2210.10370</a>.
