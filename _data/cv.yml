@@ -40,14 +40,14 @@
       description:
         - To be submitted to <b>SODA 2024</b>.
         - Coauthors&#58 Nick Gravin, Renfei Zhou.
-        - Proposing a novel Poisson-Chernoff relaxation of Bidder Selection Problem for Position Auctions, and giving a PTAS useful and efficient in practice.
+        - We propose a novel Poisson-Chernoff relaxation of Bidder Selection Problem for Position Auctions and give a PTAS useful and efficient in practice.
 
     - title: On the Perturbation Function of Ranking and Balance for Weighted Online Bipartite Matching
       year: 2022.01 - 2022.07
       description:
         - Submitted to <b>ESA 2023</b>, under review.
         - Coauthors&#58 Jingxun Liang, Zhihao Gavin Tang, Yuhao Zhang, Renfei Zhou.
-        - Proving the uniqueness of a function used in the optimal algorithms for AdWords and Vertex Weighted Online Bipartite Matching, and refuting a previous conjecture about a well-known algorithm for AdWords.
+        - We prove the uniqueness of a function used in the optimal algorithms for AdWords and Vertex Weighted Online Bipartite Matching and refute a previous conjecture about a well-known algorithm for AdWords.
         - ArXiv preprint available at <a href="https://arxiv.org/abs/2210.10370">https://arxiv.org/abs/2210.10370</a>.
 
 - title: Experience
