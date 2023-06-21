@@ -41,6 +41,7 @@
         - To be submitted to <b>SODA 2024</b>.
         - Authors&#58 Nick Gravin*, <b>Yixuan Even Xu*</b>, Renfei Zhou*.
         - We propose a novel Poisson-Chernoff relaxation of the Bidder Selection Problem for Position Auctions and give a PTAS that is useful and efficient in practice. Our algorithm is the first to have empirical impact among all algorithms for the Bidder Selection Problem.
+        - ArXiv preprint available at <a href="https://arxiv.org/abs/2306.10648">https://arxiv.org/abs/2306.10648</a>. 
 
     - title: On the Perturbation Function of Ranking and Balance for Weighted Online Bipartite Matching
       year: 2022.01 - 2022.07

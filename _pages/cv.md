@@ -4,5 +4,5 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 2
-cv_pdf: Yixuan_Xu.pdf
+cv_pdf: YixuanXu.pdf
 ---
