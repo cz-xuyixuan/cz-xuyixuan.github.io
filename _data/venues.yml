@@ -1,3 +1,7 @@
 "ArXiv Preprint":
   url: https://arxiv.org/
   color: "#828282"
+
+"ESA 2023":
+  url: https://algo-conference.org/2023/esa/
+  color: LightSkyBlue
