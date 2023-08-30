@@ -75,10 +75,10 @@
     - title: On the Perturbation Function of Ranking and Balance for Weighted Online Bipartite Matching
       year: 2022.01 - 2022.07
       description:
-        - <b>Accepted</b> for presentation at <b>ESA 2023</b>.
+        - <b>Published</b> at <b>ESA 2023</b>.
         - Authors&#58 Jingxun Liang*, Zhihao Gavin Tang*, <b>Yixuan Even Xu*</b>, Yuhao Zhang*, Renfei Zhou*.
         - We prove the uniqueness of a function used in the optimal algorithms for AdWords and Vertex Weighted Online Bipartite Matching and refute a previous conjecture about a well-known algorithm for AdWords.
-        - ArXiv preprint available at <a href="https://arxiv.org/abs/2210.10370">https://arxiv.org/abs/2210.10370</a>.
+        - Available at <a href="https://doi.org/10.4230/LIPIcs.ESA.2023.80">https://doi.org/10.4230/LIPIcs.ESA.2023.80</a>.
 
 - title: Honors and Awards (Selected)
   type: time_table
