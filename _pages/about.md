@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Well met! I am Yixuan (Even) Xu (徐翊轩), a junior-year undergraduate student majoring in Computer Science and Technology at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) (a.k.a. [**Yao Class**](https://iiis.tsinghua.edu.cn/en/yaoclass/), directed by [Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)).
+Well met! I am Yixuan (Even) Xu (徐翊轩), a senior-year undergraduate student majoring in Computer Science and Technology at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) (a.k.a. [**Yao Class**](https://iiis.tsinghua.edu.cn/en/yaoclass/), directed by [Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)).
 
 My research interests lie broadly in theoretical computer science and artificial intelligence, with a focus on designing algorithms with both theoretical guarantees and practical impact. I have worked on several topics in algorithmic game theory, computational economics and computational social choice. See my <a href="{{ '/cv/' | relative_url }}">CV</a> and <a href="{{ '/publications/' | relative_url }}">publications</a> for more details.
 
