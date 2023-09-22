@@ -60,7 +60,7 @@
     - title: A One-Size-Fits-All Approach to Improving Randomness in Paper Assignment
       year: 2022.09 - 2023.05
       description:
-        - Submitted to <b>NeurIPS 2023</b>, under review.
+        - Accepted at <b>NeurIPS 2023</b> as a <b>spotlight</b>, to appear.
         - Authors&#58 <b>Yixuan Even Xu</b>, Steven Jecmen, Zimeng Song, Fei Fang.
         - We identify the importance of randomness in paper assignment and formally formulate the problem, where we propose an algorithm that theoretically and empirically outperforms the currently deployed algorithm for randomized paper assignment.
   

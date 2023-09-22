@@ -5,3 +5,7 @@
 "ESA 2023":
   url: https://www.dagstuhl.de/dagpub/978-3-95977-295-2
   color: LightSkyBlue
+
+"NeurIPS 2023":
+  url: https://neurips.cc/Conferences/2023
+  color: Violet
