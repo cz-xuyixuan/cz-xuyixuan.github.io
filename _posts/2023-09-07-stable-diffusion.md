@@ -5,7 +5,7 @@ date: 2023-09-07 08:00:00
 description: They could actually be scanned with a good software!
 redirect: 
 tags: 
-- Artificial Intelligence
+- Fun
 categories: fun
 ---
 
