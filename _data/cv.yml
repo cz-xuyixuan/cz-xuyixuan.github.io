@@ -40,7 +40,7 @@
       year: 2023.05 - 2023.08
       description:
         - Submitted to <b>AAAI 2024</b>, under review.
-        - Authors&#58 <b>Yixuan Even Xu</b>, Hanrui Zhang, Cheng Yu, Vincent Conitzer.
+        - Authors&#58 <b>Yixuan Even Xu</b>, Hanrui Zhang, Yu Cheng, Vincent Conitzer.
         - We study the quantitative judgment aggregation problem in social choice, where we propose QRJA rules and study their computational properties. We also show it empirically offers effective and interpretable contest ranking predictions.
 
     - title: Learning Coalition Structures with Games
