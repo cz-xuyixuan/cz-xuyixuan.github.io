@@ -33,9 +33,32 @@
       description:
         - Advised by <a href="http://people.iiis.tsinghua.edu.cn/~yuanyang/en.html">Prof. Yang Yuan</a>.
 
-- title: Research
+
+
+- title: Publications and Accepted Papers
   type: time_table
   contents:
+
+    - title: A One-Size-Fits-All Approach to Improving Randomness in Paper Assignment
+      year: 2023
+      description:
+        - To appear as a <b>Spotlight</b> at <b>NeurIPS 2023</b>.
+        - Authors&#58 <b>Yixuan Even Xu</b>, Steven Jecmen, Zimeng Song, Fei Fang.
+        - We identify the importance of randomness in paper assignment and formally formulate the problem, where we propose an algorithm that theoretically and empirically outperforms the currently deployed algorithm for randomized assignment.
+        - Camera-ready version available at <a href="https://yixuanevenxu.github.io/assets/pdf/neurips2023peerreview.pdf">https://yixuanevenxu.github.io/assets/pdf/neurips2023peerreview.pdf</a>.
+
+    - title: On the Perturbation Function of Ranking and Balance for Weighted Online Bipartite Matching
+      year: 2023
+      description:
+        - Published at <b>ESA 2023</b>.
+        - Authors&#58 Jingxun Liang*, Zhihao Gavin Tang*, <b>Yixuan Even Xu*</b>, Yuhao Zhang*, Renfei Zhou*.
+        - We prove the uniqueness of a function used in the optimal algorithms for AdWords and Vertex Weighted Online Bipartite Matching and refute a previous conjecture about a well-known algorithm for AdWords.
+        - Published version available at <a href="https://doi.org/10.4230/LIPIcs.ESA.2023.80">https://doi.org/10.4230/LIPIcs.ESA.2023.80</a>.
+
+- title: Manuscripts
+  type: time_table
+  contents:
+
     - title: Aggregating Quantitative Relative Judgements&#58 From Social Choice to Interpretable Ranking Prediction
       year: 2023.05 - 2023.08
       description:
@@ -48,7 +71,7 @@
       description:
         - Submitted to <b>AAAI 2024</b>, under review.
         - Authors&#58 <b>Yixuan Even Xu</b>, Chun Kai Ling, Fei Fang.
-        - We propose and study the Coalition Structure Learning problem under one-bit observation and present a novel Iterative Grouping (IG) algorithm to efficiently tackle it, achieving a sample complexity asymptotically matching lower bounds.
+        - We propose and study the Coalition Structure Learning  problem under one-bit observation and present a novel Iterative Grouping (IG) algorithm to efficiently tackle it, achieving a sample complexity asymptotically matching lower bounds.
 
     - title: Non-Excludable Bilateral Trade Between Groups
       year: 2023.02 - 2023.05
@@ -56,42 +79,27 @@
         - Submitted to <b>AAAI 2024</b>, under review.
         - Authors&#58 <b>Yixuan Even Xu</b>, Hanrui Zhang, Vincent Conitzer.
         - We generalize the traditional bilateral trade problem to a non-excludable setting, where we characterize feasible mechanisms, give a mechanism with all desiderata in some cases, and prove hardness results for others.
-
-    - title: A One-Size-Fits-All Approach to Improving Randomness in Paper Assignment
-      year: 2022.09 - 2023.05
-      description:
-        - Accepted at <b>NeurIPS 2023</b> as a <b>spotlight</b>, to appear.
-        - Authors&#58 <b>Yixuan Even Xu</b>, Steven Jecmen, Zimeng Song, Fei Fang.
-        - We identify the importance of randomness in paper assignment and formally formulate the problem, where we propose an algorithm that theoretically and empirically outperforms the currently deployed algorithm for randomized paper assignment.
   
     - title: Bidder Selection Problem in Position Auctions via Poisson Approximation
       year: 2022.07 - 2023.01
       description:
         - Submitted to <b>WWW 2024</b>, under review.
         - Authors&#58 Nick Gravin*, <b>Yixuan Even Xu*</b>, Renfei Zhou*.
-        - We propose a novel Poisson-Chernoff relaxation of the Bidder Selection Problem for Position Auctions and give a PTAS (Polynomial-Time Approximation Scheme) that is useful and efficient in practice. Our algorithm is the first to have empirical impact among all algorithms for the Bidder Selection Problem.
+        - We propose a novel Poisson-Chernoff relaxation of the Bidder Selection Problem for Position Auctions and give a PTAS (Polynomial-Time Approximation Scheme) that is useful and efficient in practice.
         - ArXiv preprint available at <a href="https://arxiv.org/abs/2306.10648">https://arxiv.org/abs/2306.10648</a>. 
-
-    - title: On the Perturbation Function of Ranking and Balance for Weighted Online Bipartite Matching
-      year: 2022.01 - 2022.07
-      description:
-        - <b>Published</b> at <b>ESA 2023</b>.
-        - Authors&#58 Jingxun Liang*, Zhihao Gavin Tang*, <b>Yixuan Even Xu*</b>, Yuhao Zhang*, Renfei Zhou*.
-        - We prove the uniqueness of a function used in the optimal algorithms for AdWords and Vertex Weighted Online Bipartite Matching and refute a previous conjecture about a well-known algorithm for AdWords.
-        - Available at <a href="https://doi.org/10.4230/LIPIcs.ESA.2023.80">https://doi.org/10.4230/LIPIcs.ESA.2023.80</a>.
 
 - title: Honors and Awards (Selected)
   type: time_table
   contents:
     - year: 2023
       items: 
-        - <b>Yao Award (Silver Medal)</b>
+        - <b>Andrew C. Yao Award (Silver Medal)</b>
     - year: 2022
       items: 
         - <b>Jiang Nanxiang Scholarship (蒋南翔奖学金)</b>
     - year: 2021
       items: 
-        - <b>China National Scholarship (国家奖学金)</b>
+        - <b>National Scholarship of China (国家奖学金)</b>
 
 - title: Competitive Programming (Selected)
   type: time_table
@@ -113,6 +121,23 @@
         - China Team Selection Competition 2018, 11th, Gold Medal
         - CCF NOI Winter Camp, 27th, Gold Medal
 
+- title: Teaching
+  type: time_table
+  contents:
+    - year: Fall 2023
+      items: 
+        - <b>Teaching Assistant</b> of Design and Analysis of Algorithms 
+    - year: 2022 - 2023
+      items: 
+        - <b>Volunteer</b> of Question Answering Workshop of Tsinghua University 
+
+- title: Seminars
+  type: time_table
+  contents:
+    - year: Fall 2023
+      items: 
+        - <b>Host</b> of Yaoclass Seminar
+        
 - title: Others
   type: map
   contents:
