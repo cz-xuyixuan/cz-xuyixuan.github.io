@@ -45,7 +45,7 @@
         - To appear as a <b>Spotlight</b> at <b>NeurIPS 2023</b>.
         - Authors&#58 <b>Yixuan Even Xu</b>, Steven Jecmen, Zimeng Song, Fei Fang.
         - We identify the importance of randomness in paper assignment and formally formulate the problem, where we propose an algorithm that theoretically and empirically outperforms the currently deployed algorithm for randomized assignment.
-        - Camera-ready version available at <a href="https://yixuanevenxu.github.io/assets/pdf/neurips2023peerreview.pdf">https://yixuanevenxu.github.io/assets/pdf/neurips2023peerreview.pdf</a>.
+        - ArXiv preprint available at <a href="https://arxiv.org/abs/2310.05995">https://arxiv.org/abs/2310.05995</a>.
 
     - title: On the Perturbation Function of Ranking and Balance for Weighted Online Bipartite Matching
       year: 2023
