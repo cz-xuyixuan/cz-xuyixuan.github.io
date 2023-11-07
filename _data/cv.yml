@@ -93,6 +93,7 @@
   contents:
     - year: 2023
       items: 
+        - <b>Wang Dazhong Scholarship (王大中奖学金)</b>
         - <b>Andrew C. Yao Award (Silver Medal)</b>
     - year: 2022
       items: 
@@ -129,7 +130,7 @@
         - <b>Teaching Assistant</b> of Design and Analysis of Algorithms 
     - year: 2022 - 2023
       items: 
-        - <b>Volunteer</b> of Question Answering Workshop of Tsinghua University 
+        - <b>Volunteer</b> of Drop-in Tutoring for STEM Courses of Tsinghua University 
 
 - title: Seminars
   type: time_table
