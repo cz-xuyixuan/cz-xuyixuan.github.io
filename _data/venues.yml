@@ -9,3 +9,7 @@
 "NeurIPS 2023":
   url: https://neurips.cc/Conferences/2023
   color: Violet
+
+"AAAI 2024":
+  url: https://aaai.org/aaai-conference/
+  color: "#8a2be2"
