@@ -47,7 +47,7 @@
         - We propose and study the Coalition Structure Learning  problem under one-bit observation and present a novel Iterative Grouping (IG) algorithm to efficiently tackle it, achieving a sample complexity asymptotically matching lower bounds.
         - ArXiv preprint available at <a href="https://arxiv.org/abs/2312.09058">https://arxiv.org/abs/2312.09058</a>.
 
-    - title: Non-Excludable Bilateral Trade Between Groups
+    - title: Non-excludable Bilateral Trade between Groups
       year: 2024
       description:
         - To appear at <b>AAAI 2024</b>.
