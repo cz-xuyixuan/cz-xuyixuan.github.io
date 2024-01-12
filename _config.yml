@@ -66,6 +66,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
+wechat_id: cz_xuyixuan
 github_username: YixuanEvenXu # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: YixuanEvenXu # your Twitter handle
@@ -79,7 +80,7 @@ orcid_id: 0009-0003-9360-753X # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: Yixuan-Xu-22 # your profile on ResearchGate
+research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
