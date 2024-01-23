@@ -33,11 +33,17 @@
       description:
         - Advised by <a href="http://people.iiis.tsinghua.edu.cn/~yuanyang/en.html">Prof. Yang Yuan</a>.
 
-
-
 - title: Publications and Accepted Papers
   type: time_table
   contents:
+    
+    - title: Bidder Selection Problem in Position Auctions via Poisson Approximation
+      year: 2022.07 - 2023.01
+      description:
+        - To appear at <b>WWW 2024</b>.
+        - Authors&#58 Nick Gravin*, <b>Yixuan Even Xu*</b>, Renfei Zhou*.
+        - We propose a novel Poisson-Chernoff relaxation of the Bidder Selection Problem for Position Auctions and give a PTAS (Polynomial-Time Approximation Scheme) that is useful and efficient in practice.
+        - ArXiv preprint available at <a href="https://arxiv.org/abs/2306.10648">https://arxiv.org/abs/2306.10648</a>. 
 
     - title: Learning Coalition Structures with Games
       year: 2024
@@ -81,14 +87,6 @@
         - To be submitted to <b>IJCAI 2024</b>.
         - Authors&#58 <b>Yixuan Even Xu</b>, Hanrui Zhang, Yu Cheng, Vincent Conitzer.
         - We study the quantitative judgment aggregation problem in social choice, where we propose QRJA rules and study their computational properties. We also show it empirically offers effective and interpretable contest ranking predictions.
-    
-    - title: Bidder Selection Problem in Position Auctions via Poisson Approximation
-      year: 2022.07 - 2023.01
-      description:
-        - Submitted to <b>WWW 2024</b>, under review.
-        - Authors&#58 Nick Gravin*, <b>Yixuan Even Xu*</b>, Renfei Zhou*.
-        - We propose a novel Poisson-Chernoff relaxation of the Bidder Selection Problem for Position Auctions and give a PTAS (Polynomial-Time Approximation Scheme) that is useful and efficient in practice.
-        - ArXiv preprint available at <a href="https://arxiv.org/abs/2306.10648">https://arxiv.org/abs/2306.10648</a>. 
 
 - title: Honors and Awards (Selected)
   type: time_table
