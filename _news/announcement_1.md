@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our team gets 3rd place in CCPC Final 2020!
+title: Our team got 3rd place in CCPC Final 2020!
 date: 2021-05-30 08:00:00
 inline: false
 ---

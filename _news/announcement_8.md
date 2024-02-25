@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I am awarded Yao Award by IIIS!
+title: I was awarded Yao Award by IIIS!
 date: 2023-09-17 08:00:00
 inline: false
 ---

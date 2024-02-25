@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our team gets 3rd place in ICPC EC Final 2021!
+title: Our team got 3rd place in ICPC EC Final 2021!
 date: 2022-07-20 08:00:00
 inline: false
 ---

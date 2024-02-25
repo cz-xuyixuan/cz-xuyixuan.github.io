@@ -22,7 +22,7 @@ I just attended NeurIPS 2023 in New Orleans and presented [my paper](https://arx
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/neurips2023/1.jpg" title="Fei and I" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/neurips2023/1.jpg" title="Fei and Me" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
