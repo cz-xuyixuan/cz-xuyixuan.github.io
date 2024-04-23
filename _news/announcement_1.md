@@ -7,7 +7,7 @@ inline: false
 
 ## Overview
 
-CCPC (China Collegiate Programming Contest) Final 2020 is hosted by Beijing University of Posts and Telecommunications on May 30, 2021. Due to the COVID-19 pandemic, CCPC Final 2020, which was supposed to be held last year, was postponed to this year, so it is CCPC Final **2020** instead of 2021.
+CCPC (China Collegiate Programming Contest) Final 2020 was hosted by Beijing University of Posts and Telecommunications on May 30, 2021. Due to the COVID-19 pandemic, CCPC Final 2020, which was supposed to be held last year, was postponed to this year, so it is CCPC Final **2020** instead of 2021.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -20,7 +20,7 @@ CCPC (China Collegiate Programming Contest) Final 2020 is hosted by Beijing Univ
 
 ## Teammates
 
-Our team is `喵喵喵喵喵喵喵喵喵喵喵喵`, composing of Binwei Yan, Renfei Zhou and me.
+Our team was `喵喵喵喵喵喵喵喵喵喵喵喵`, composing of Binwei Yan, Renfei Zhou and me.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

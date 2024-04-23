@@ -7,11 +7,11 @@ inline: false
 
 ## Overview
 
-ICPC EC Final (Asia-East Continent Final Contest) 2021 is hosted by Northwestern Polytechnical University on July 20, 2022. Due to the COVID-19 pandemic, ICPC EC Final 2021, which was supposed to be held last year, was postponed to this year, so it is EC Final **2021** instead of 2022.
+ICPC EC Final (Asia-East Continent Final Contest) 2021 was hosted by Northwestern Polytechnical University on July 20, 2022. Due to the COVID-19 pandemic, ICPC EC Final 2021, which was supposed to be held last year, was postponed to this year, so it is EC Final **2021** instead of 2022.
 
 ## Teammates
 
-Our team is `窗边明月`, composing of Junzhao Yang, Sunli Chen and me.
+Our team was `窗边明月`, composing of Junzhao Yang, Sunli Chen and me.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
