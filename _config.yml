@@ -6,7 +6,7 @@ title: Yixuan Even Xu # the website title (if blank, full name will be used inst
 first_name: Yixuan
 middle_name: Even
 last_name: Xu
-email: xuyx20@mails.tsinghua.edu.cn
+email: yixuanx@andrew.cmu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   The academic profile of Yixuan Even Xu.
 footer_text: >
@@ -242,7 +242,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['Competitive Programming', 'Fun', 'Awards and Honors'] # this tags will be dispalyed on the front page of your blog
+display_tags: ['Competitive Programming', 'Conferences'] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
