@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p><a href='https://iiis.tsinghua.edu.cn/en/yaoclass/'>Yao Class</a> 02, <a href='https://iiis.tsinghua.edu.cn/en/'>IIIS</a>, <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua</a></p>
