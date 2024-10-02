@@ -10,8 +10,12 @@
   url: https://neurips.cc/Conferences/2023
   color: HotPink
 
+"NeurIPS 2024":
+  url: https://neurips.cc/Conferences/2024
+  color: HotPink
+
 "AAAI 2024":
-  url: https://aaai.org/aaai-conference/
+  url: https://aaai.org/conference/aaai/aaai-24/
   color: Orchid
 
 "WWW 2024":
